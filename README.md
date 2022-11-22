@@ -1,7 +1,5 @@
 # Jackdaw
 
-Image by: Alicepintaric, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
-
 Dispatch execution for code workflows. Whether the execution flow comes in via HTTP, Websockets, Pub/Sub, Command Line, Etc... Jackdaw helps you route your execution to the desired Controller::StaticFunction , Controller->InstanceFunction or GlobalFunction.
 
 Simple syntax to define where the execution will flow.
